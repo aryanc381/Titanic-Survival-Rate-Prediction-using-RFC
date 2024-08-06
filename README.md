@@ -13,7 +13,8 @@ In this Kaggle project utilizing the Titanic dataset, I developed a Random Fores
 This project was part of a Kaggle competition, you can check it out here: [Titanic ML from disaster - Kaggle](https://www.kaggle.com/competitions/titanic/overview)
 
 This competition runs indefinitely. Once you register for it, you can find the dataset here: [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
-
+My rank was ```1786``` out of ```16401``` in the competition.
+![leaderboard](titanic.png)
 The data is in the form of a CSV file and is divided into two main parts:
 1. `train.csv` - Used for training the model.
 2. `test.csv` - Used for testing the model.
